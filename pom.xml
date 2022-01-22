@@ -5,12 +5,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>net.guides.springboot2</groupId>
-	<artifactId>springboot2-ecs-corp-cars</artifactId>
+	<artifactId>ecs-corp-cars</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>springboot2-jpa-crud-example</name>
-	<description>Demo project for Spring Boot</description>
+	<name>ecs-corp-car</name>
+	<description>ecs-corp-car</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
